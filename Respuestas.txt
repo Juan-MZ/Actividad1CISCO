@@ -58,6 +58,19 @@ entre dispositivos remotos y la red empresarial, evitando que terceros puedan
 interceptar los datos.
 
 3. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+Una red orientada a la conexión, la comunicación entre dispositivos sigue un proceso estructurado y predefinido para establecer y
+mantener una conexión antes de que los datos se transmitan entre el emisor y el receptor. 
+Este proceso generalmente involucra un intercambio de mensajes de control para negociar parámetros y confirmar la disponibilidad
+de recursos. Además las redes orientadas a la conexión garantizan la entrega confiable de datos en el orden correcto.
+Si se produce un error en la transmisión, se realizan retransmisiones y correcciones para asegurarse de que los datos lleguen
+intactos
+
+En una red no orientada a la conexión, la comunicación entre dispositivos no sigue un proceso de establecimiento de conexión 
+formal. En cambio, los datos se transmiten de manera independiente y sin garantías predefinidas de entrega confiable 
+o en orden. Sin embargo, al no necesitar el establecimiento de una conexión y la gestión asociada, 
+las redes no orientadas a la conexión pueden ser más eficientes en términos de sobrecarga de comunicación.
+
 4. Describa que es la calidad del servicio y responda: ¿Por qué importa la
 calidad del servicio en una red de datos?
 
