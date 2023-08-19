@@ -87,12 +87,34 @@ requisitos específicos de las diferentes aplicaciones y servicios.
 CAPITULO 2
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.
+
+La estructura de una red se compone de una variedad de componentes interconectados que colaboran para facilitar la comunicación 
+exitosa. En primer lugar, los dispositivos en la red incluyen computadoras, teléfonos inteligentes, impresoras y otros, 
+todos los cuales desempeñan un papel en la generación y recepción de datos. 
+Además, los dispositivos de red activos como routers, hubs, switches y firewalls gestionan el flujo de datos dentro de la red, 
+dirigiendo y protegiendo el tráfico. En cuanto a los medios de transmisión, pueden ser cableados (como cables de cobre o 
+fibra óptica) para conexiones físicas o inalámbricos (como Wi-Fi o redes móviles). Por último, los servicios y protocolos, 
+como TCP/IP y HTTP permiten la comunicación y brindan una variedad de servicios, como correo electrónico y acceso a sitios web.
+Esta combinación de dispositivos, medios y servicios/protocolos permiten una comunicacion exitosa. 
+
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+Internetwork hace referencia a una malla global de redes WAN y LAN interconectadas para satisfacer necesidades de comunicación 
+humanas, estas redes pueden ser públicas o privadas. Por otro lado, Internet es la red global pública más grande del mundo, 
+siendo la existencia de ésta posible gracias a la cooperación de muchas agencias de administración de redes.
+
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+
+Los protocolos son independientes a la tecnología, porque estos diseñados para ser especificaciones abstractas y generales de 
+los pasos que deben realizarse, sin exigir un cómo hacerlos, por lo que distintos lenguajes y dispositivos pueden tener sus 
+propias formas de llevarlos a cabo.
+
+
+
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
 7. Explicar la función de los protocolos en las comunicaciones de redes y para
