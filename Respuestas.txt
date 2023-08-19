@@ -1,6 +1,6 @@
 ESTUDIANTE 1: Juan José Medicis Zambrano
 ESTUDIANTE 2: Manuel José Lopez Valencia
-Link de repositorio: 
+Link de repositorio: https://github.com/Juan-MZ/Actividad1CISCO
 Link de youtube: 
 
 CAPITULO 1
@@ -89,15 +89,68 @@ CAPITULO 2
 servicios necesarios para lograr comunicaciones exitosas.
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
+
+Red (Network):
+Definición: Una red es un conjunto de dispositivos informáticos interconectados que pueden comunicarse y compartir recursos.
+Características: Las redes pueden ser pequeñas o grandes, locales o globales, y pueden ser cableadas o inalámbricas.
+Ejemplo: Una red de dispositivos en una oficina conectados para compartir archivos e impresoras.
+
+LAN (Local Area Network):
+Definición: Una LAN es una red de área local que abarca un área geográfica pequeña, como una oficina, un edificio o un campus.
+Características: Las LAN generalmente utilizan tecnologías de alta velocidad y son propiedad y operadas por una sola organización.
+Ejemplo: La red de computadoras en una universidad que conecta diferentes departamentos.
+
+WAN (Wide Area Network):
+Definición: Una WAN es una red de área amplia que abarca distancias geográficas más grandes, como ciudades, países o incluso continentes.
+Características: Las WAN suelen utilizar conexiones más lentas en comparación con las LAN y están formadas por la interconexión de varias LAN.
+Ejemplo: La red de una empresa que conecta sus oficinas en diferentes ciudades a través de enlaces de comunicación de larga distancia.
+
+Internetwork (Interred):
+Definición: Un internetwork es una colección de redes interconectadas utilizando dispositivos como enrutadores y conmutadores.
+Características: Los internetworks permiten la comunicación entre redes separadas, lo que permite la expansión y la conexión global.
+Ejemplo: Internet es el ejemplo más grande de un internetwork, ya que interconecta redes de todo el mundo.
+
+Internet:
+Definición: Internet es una red global de redes, que permite la comunicación y el intercambio de información a nivel mundial.
+Características: Internet utiliza protocolos estándar, como TCP/IP, para habilitar la comunicación y el acceso a servicios como la World Wide Web.
+Ejemplo: La World Wide Web (www) es una parte importante de Internet, donde los usuarios pueden acceder a sitios web y recursos en línea.
+
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
+
+La diferencia entre una Tarjeta de Interfaz de Red (NIC), un puerto físico y una interfaz 
+de red radica en su función y nivel de abstracción en una red de computadoras.
+
+La Tarjeta de Interfaz de Red (NIC) es el componente físico que posibilita la conexión 
+de una computadora a una red. Por otro lado, el puerto físico se trata del punto de 
+enlace físico presente en un dispositivo, mientras que la interfaz de red actúa como 
+una representación abstracta de la conexión lógica con la red. Esta última puede estar 
+vinculada a una NIC real o ser virtual. Cada uno de estos elementos cumple una función 
+exclusiva en el proceso de facilitar la comunicación y la conectividad en una red informática.
+
+
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
+
+Una Unidad de Datos del Protocolo (PDU) es una estructura 
+fundamental en el ámbito de las comunicaciones y las redes de computadoras. En términos 
+sencillos, se trata de un paquete de información que se utiliza para transmitir datos entre 
+dispositivos en una red. Las PDUs son una parte esencial para el funcionamiento de los protocolos 
+de comunicación, ya que facilitan el intercambio de información y permiten que los datos se envíen 
+y reciban de manera eficiente y ordenada.
+
 7. Explicar la función de los protocolos en las comunicaciones de redes y para
 qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
 adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 8. Describir la diferencia entre los modelos de protocolo y modelos de
 referencia.
+
+Los modelos de protocolo se dedican a los detalles particulares sobre cómo los dispositivos 
+establecen comunicación usando protocolos específicos, mientras que los modelos de referencia 
+suministran una estructura conceptual más abarcadora para entender el proceso comunicativo en 
+una red. Mientras que los modelos de protocolo son más enfocados y técnicos en su naturaleza, 
+los modelos de referencia son más abstractos y conceptuales en su enfoque.
+
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
