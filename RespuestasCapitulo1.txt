@@ -1,5 +1,22 @@
 1. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
 es una red convergente?
+
+
+
+Los datos son representaciones simbólicas de información que pueden ser procesadas, almacenadas y
+transmitidas. Pueden ser números, texto, imágenes, videos u otros tipos de información 
+que tienen significado y valor.
+
+Una red de datos es un conjunto interconectado de dispositivos informáticos que 
+pueden comunicarse entre sí y compartir información.
+Estas redes permiten la transferencia de datos y recursos,
+como archivos y aplicaciones, de manera eficiente y rápida.
+
+Una red convergente es una infraestructura de red que combina diferentes tipos de comunicaciones,
+como voz, video y datos, en una sola red.
+Esto simplifica la administración, reduce costos y mejora la eficiencia al permitir que
+múltiples tipos de tráfico compartan la misma infraestructura.
+
 2. Describir las características de las arquitecturas de red: tolerante a fallas,
 escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
 ejemplos.
