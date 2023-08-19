@@ -1,0 +1,90 @@
+ESTUDIANTE 1: Juan José Medicis Zambrano
+ESTUDIANTE 2: Manuel José Lopez Valencia
+Link de repositorio: 
+Link de youtube: 
+
+CAPITULO 1
+1. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
+es una red convergente?
+
+Los datos son representaciones simbólicas de información que pueden ser procesadas, almacenadas y
+transmitidas. Pueden ser números, texto, imágenes, videos u otros tipos de información 
+que tienen significado y valor.
+
+Una red de datos es un conjunto interconectado de dispositivos informáticos que 
+pueden comunicarse entre sí y compartir información.
+Estas redes permiten la transferencia de datos y recursos,
+como archivos y aplicaciones, de manera eficiente y rápida.
+
+Una red convergente es una infraestructura de red que combina diferentes tipos de comunicaciones,
+como voz, video y datos, en una sola red.
+Esto simplifica la administración, reduce costos y mejora la eficiencia al permitir que
+múltiples tipos de tráfico compartan la misma infraestructura.
+
+2. Describir las características de las arquitecturas de red: tolerante a fallas,
+escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
+ejemplos.
+
+
+Tolerancia a fallas:
+Una estructura de red que es tolerante a fallos está concebida para mantener 
+su operatividad incluso si uno o varios componentes experimentan problemas. 
+Ejemplo: En caso de que un servidor falle, las tareas en curso se desvían 
+automáticamente hacia otros servidores disponibles.
+
+Escalabilidad:
+Se refiere a la habilidad de una arquitectura de red para expandirse y 
+adaptarse en respuesta al aumento en la demanda. Esta capacidad puede 
+ser horizontal (añadiendo más nodos) o vertical 
+(aumentando la capacidad de los nodos existentes). 
+Ejemplo: Las redes de distribución de contenido que reparten información a 
+través de servidores ubicados en diferentes partes del mundo pueden añadir 
+fácilmente más servidores a medida que el tráfico crece.
+
+Calidad del servicio (QoS):
+Este concepto se refiere a la aptitud de la red para dar prioridad y asegurar 
+ciertos niveles de rendimiento a distintos tipos de tráfico, como voz, video y datos, 
+según las necesidades del usuario. 
+Ejemplo: En una red de telefonía con QoS, se puede dar preferencia al tráfico de voz 
+sobre otros tipos de datos para garantizar una comunicación fluida debido a la 
+sensibilidad de la voz a la latencia.
+
+Seguridad:
+La seguridad en una arquitectura de red abarca la protección de los datos y los recursos 
+contra amenazas internas y externas. Esto incluye la autenticación, el cifrado, 
+la prevención de intrusiones y la implementación de políticas de acceso. 
+Ejemplo: Una red privada virtual (VPN) emplea el cifrado para resguardar la comunicación 
+entre dispositivos remotos y la red empresarial, evitando que terceros puedan 
+interceptar los datos.
+
+3. Investigar qué son las redes orientadas y no orientadas a la conexión.
+4. Describa que es la calidad del servicio y responda: ¿Por qué importa la
+calidad del servicio en una red de datos?
+
+La calidad del servicio refiere a la capacidad de la red para garantizar niveles adecuados de rendimiento 
+y servicio a diferentes tipos de tráfico, como voz, video y datos. En sí, 
+la QoS busca asegurar que ciertos flujos de datos reciban un tratamiento preferencial 
+en función de requisitos específicos, como latencia, ancho de banda y pérdida de paquetes.
+
+la calidad del servicio en una red de datos es importante para ofrecer una experiencia 
+de usuario satisfactoria, utilizar los recursos de manera eficiente y cumplir con los 
+requisitos específicos de las diferentes aplicaciones y servicios.
+
+
+CAPITULO 2
+1. Describir la estructura de una red, incluidos los dispositivos, medios y
+servicios necesarios para lograr comunicaciones exitosas.
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+INTERNETWORK E INTERNET.
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
+interfaz de red.
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
+(PDU).
+7. Explicar la función de los protocolos en las comunicaciones de redes y para
+qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
+adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+8. Describir la diferencia entre los modelos de protocolo y modelos de
+referencia.
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
