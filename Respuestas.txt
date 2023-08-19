@@ -166,6 +166,9 @@ y reciban de manera eficiente y ordenada.
 7. Explicar la función de los protocolos en las comunicaciones de redes y para
 qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
 adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+
+
 8. Describir la diferencia entre los modelos de protocolo y modelos de
 referencia.
 
@@ -176,3 +179,50 @@ una red. Mientras que los modelos de protocolo son más enfocados y técnicos en
 los modelos de referencia son más abstractos y conceptuales en su enfoque.
 
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+Modelo OSI:
+
+Capa Física (Capa 1):
+Se encarga de la transmisión física de bits a través de un medio de transmisión, como cables y señales eléctricas.
+
+Capa de Enlace de Datos (Capa 2):
+Proporciona la transferencia de datos confiable entre dispositivos directamente conectados en la misma red local. 
+Realiza la detección y corrección de errores y control de flujo.
+
+Capa de Red (Capa 3):
+Se encarga del enrutamiento de datos entre redes diferentes. Esto incluye la determinación de la mejor ruta para los datos y 
+la gestión de direcciones IP.
+
+Capa de Transporte (Capa 4):
+Proporciona servicios de extremo a extremo, como la segmentación de datos en paquetes más pequeños, 
+el control de flujo y la recuperación de errores. 
+
+Capa de Sesión (Capa 5):
+Establece, gestiona y termina sesiones de comunicación entre aplicaciones. 
+También maneja la sincronización y el diálogo entre aplicaciones.
+
+Capa de Presentación (Capa 6):
+Se encarga de la traducción y transformación de datos para garantizar que las aplicaciones puedan interpretar y 
+presentar la información correctamente. Esto incluye la compresión y el cifrado de datos.
+
+Capa de Aplicación (Capa 7):
+Es la capa de interfaz con el usuario final y las aplicaciones. 
+Proporciona servicios y protocolos que permiten a las aplicaciones acceder a la red.
+
+Modelo TCP/IP (Protocolo de Control de Transmisión/Protocolo de Internet):
+
+Capa de Acceso a la Red (o Capa de Enlace de Datos en el modelo OSI):
+Controla el acceso al medio de transmisión físico y se encarga de la transmisión de tramas de datos en la red local. 
+Incluye protocolos como Ethernet.
+
+Capa de Internet (o Capa de Red en el modelo OSI):
+Maneja la dirección y el enrutamiento de paquetes de datos a través de redes diferentes. 
+El protocolo principal es el Protocolo de Internet (IP).
+
+Capa de Transporte (similar a la Capa de Transporte en el modelo OSI):
+Proporciona servicios de extremo a extremo para la transferencia de datos, incluida la segmentación y el reensamblaje de datos. 
+Incluye TCP y UDP.
+
+Capa de Aplicación (combinación de Capas de Aplicación, Presentación y Sesión en el modelo OSI):
+Engloba la funcionalidad de las capas de Aplicación, Presentación y Sesión en el modelo OSI. 
+Proporciona servicios de aplicación para que las aplicaciones se comuniquen a través de la red.
