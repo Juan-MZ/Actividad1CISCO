@@ -1,7 +1,7 @@
 ESTUDIANTE 1: Juan José Medicis Zambrano
 ESTUDIANTE 2: Manuel José Lopez Valencia
 Link de repositorio: https://github.com/Juan-MZ/Actividad1CISCO
-Link de youtube: 
+Link de youtube: https://youtu.be/fYgUA62Dlkk
 
 CAPITULO 1
 1. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
